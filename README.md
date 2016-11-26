@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/node-keyboard-mouse.svg)](https://badge.fury.io/js/node-keyboard-mouse) 
 
-Mouse plugin for node-keyboard
+Mouse support for [node-keyboard](https://github.com/justinjmoses/node-keyboard) (OSX only)
 
 ![](https://media.giphy.com/media/x89OxwJoMl5GE/giphy.gif)
 
