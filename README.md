@@ -27,4 +27,8 @@ Try out the 12-tone player by moving the mouse arond the screen. The lower the y
 mouse.serialism({ w: 2560, h: 1440 )}).subscribe(play) // for a 27" Mac Display (ignore retina aspect - i.e. DPI - when selecting this)
 ```
 
+##In action
+I spoke on node-keyboard at EmpireNode in November 2016.
 
+Here's the excerpt for `node-keyboard-mouse`:
+[![image](https://cloud.githubusercontent.com/assets/799038/20642880/e21b0b90-b3e8-11e6-8053-9271e7bff99c.png)](https://youtu.be/Wa5-DePTWdA?t=1210)
