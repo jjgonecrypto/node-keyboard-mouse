@@ -1,0 +1,24 @@
+{
+  "name": "node-keyboard-mouse",
+  "version": "1.0.0",
+  "description": "Mouse plugin for node-keyboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "keywords": [
+    "node-keyboard-mouse"
+  ],
+  "author": "justin j. moses <justinjmoses@gmail.com>",
+  "license": "MIT",
+  "repository": "justinjmoses/node-keyboard-mouse",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "osx-mouse": "^1.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.9.1"
+  }
+}
